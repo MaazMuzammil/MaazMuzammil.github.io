@@ -1,7 +1,7 @@
-AayushJainRd7.github.io
+MaazMuzammil.github.io
 ======================
 
-Github repo for AayushRd7's Website
+Github repo for MaazMuzammil's Website
 
 ## How to get your own?
 1. Fork the repo
